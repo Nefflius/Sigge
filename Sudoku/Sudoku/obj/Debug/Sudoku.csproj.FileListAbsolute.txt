@@ -23,3 +23,6 @@ C:\Users\Ida\Documents\Visual Studio 2012\Projects\GUI_Programmering\Sudoku\Sudo
 C:\Users\Ida\Documents\Visual Studio 2012\Projects\GUI_Programmering\Sudoku\Sudoku\obj\Debug\Easy1.g.cs
 C:\Users\Ida\Documents\Visual Studio 2012\Projects\GUI_Programmering\Sudoku\Sudoku\obj\Debug\Hard1.g.cs
 C:\Users\Ida\Documents\Visual Studio 2012\Projects\GUI_Programmering\Sudoku\Sudoku\obj\Debug\Medium1.g.cs
+G:\Visual Studio\Sigge git\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+G:\Visual Studio\Sigge git\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+G:\Visual Studio\Sigge git\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
