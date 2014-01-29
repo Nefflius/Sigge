@@ -39,5 +39,7 @@ namespace Sudoku
         {
 
         }
+
+        private void helpfunction()
     }
 }
