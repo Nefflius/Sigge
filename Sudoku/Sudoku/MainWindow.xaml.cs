@@ -27,7 +27,7 @@ namespace Sudoku
 
         private void clickAvsluta(object sender, RoutedEventArgs e)
         {
-            Application.Current.Shutdown(); //Stänger av spelet
+            Application.Current.Shutdown(); //Stänger av spelet direkt!
         }
 
         private void clickRätta(object sender, RoutedEventArgs e)
